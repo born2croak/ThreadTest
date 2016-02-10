@@ -1,4 +1,12 @@
-
+/**
+ * RunForever
+ * Run Forest Run!
+ * @author Tim Gifford
+ * @author Brian Robertson
+ * @author Dason Woodhouse
+ * @author Parker Hubbard
+ * 
+ */
 public class RunForever implements Runnable {
 
 	public void run () {
